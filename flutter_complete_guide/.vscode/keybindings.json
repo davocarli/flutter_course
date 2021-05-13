@@ -1,0 +1,6 @@
+// keybindings.json
+{
+    "key": "option+ctrl+a",
+    "command": "workbench.action.tasks.runTask",
+    "args": "Run Android Emulator"
+}
